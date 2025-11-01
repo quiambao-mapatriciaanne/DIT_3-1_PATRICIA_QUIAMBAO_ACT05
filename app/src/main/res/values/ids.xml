@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etContent" type="id" />
+    <item name="etTitle" type="id" />
+    <item name="btnSave" type="id" />
+</resources>
